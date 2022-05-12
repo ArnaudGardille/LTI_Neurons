@@ -1,0 +1,14 @@
+affiliation : Université Paris-Saclay
+description : This is a simple LTI model that supports 1 or more inputs and 1 to 5 corresponding outputs
+email : arnaud.gardille@gmail.com
+model_name : LTI_v2
+other_remarks : 
+team_name : MIA
+technology_stack : Scipy
+Aggregated Metrics : 0.11647140171991548
+Average inference time [seconds] : 2.34080228632008e-08
+Normalized MSE : [1.15364770e-01 3.02163588e-05 2.97853487e-05 2.30286664e-05
+ 2.25780871e-05]
+Normalized MSE Sum : 0.11547037815407275
+Training set size : 1001
+Training time [seconds] : 0.0005681514739990234

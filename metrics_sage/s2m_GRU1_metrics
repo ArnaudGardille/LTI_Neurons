@@ -1,0 +1,13 @@
+affiliation : SKF Group
+description : This is a simple GRU model that supports 1 input and 1 to 5 outputs
+email : francois.caire@skf.com
+model_name : GRU1
+other_remarks : 
+team_name : s2m
+technology_stack : pytorch
+Aggregated Metrics : 15.260767376909484
+Average inference time [seconds] : 0.00011809015274047851
+Normalized MSE : [3.67014397 4.18553237 3.09297134 1.88973305 2.42206764]
+Normalized MSE Sum : 15.260448370949788
+Training set size : 200
+Training time [seconds] : 3.296905040740967
